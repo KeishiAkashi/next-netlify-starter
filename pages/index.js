@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Rooney Sounds!" />
+        <img src="/images/dog.png" alt="DOG">
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
